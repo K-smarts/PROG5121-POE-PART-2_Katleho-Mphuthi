@@ -113,7 +113,6 @@ This is Part 2 of the Chat App and it is an extension for Part 1 login. The app 
 2. Right-click project > Run.
 3. To run tests: Click Test or run `mvn test` (All tests should show "BUILD SUCCESS").
 
-## GitHub Commits
-
-
 ## Video Presentation
+
+Youtube Link: https://youtube.com/shorts/UhKELUg3d5Q?feature=share
